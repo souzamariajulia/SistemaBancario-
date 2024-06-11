@@ -12,7 +12,7 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx
 exemplo: 1500.45 = R$1500.45
 
 """
-
+                            
 def Menu():
     
     print("""
